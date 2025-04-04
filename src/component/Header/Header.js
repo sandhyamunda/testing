@@ -46,7 +46,7 @@ const Header = () => {
         <div className="container-fluid ">
             <div className="row part-1">
               <Link to='/' className=" d-flex align-item-center logo">
-              <img className="logo" src={imge}/>
+              // <img className="logo" src={imge}/>
               </Link> 
             </div>
             <div className="mt-2"><span className="ml-2">HOTASH</span></div> 
